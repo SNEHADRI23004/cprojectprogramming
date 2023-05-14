@@ -1,2 +1,2 @@
 # cprojectprogramming
-proj
+project for problem solving using C
